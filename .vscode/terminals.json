@@ -1,0 +1,12 @@
+{
+  "autorun": false,
+  "terminals": [
+    {
+      "name": "FVM FLUTTER BUILD",
+      "focus": true,
+      "execute": true,
+      "onlySingle": true,
+      "command": "fvm flutter build apk --release"
+    }
+  ]
+}
